@@ -16,7 +16,7 @@
 title: Paul Anzel's portfolio
 email: anzelpwj@gmail.com
 description: A few of my projects.
-logo: /_site/assets/img/self_photo.jpg
+logo: /assets/img/self_photo.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  anzelpwj
