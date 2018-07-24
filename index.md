@@ -4,7 +4,7 @@ Hello there, my name is Paul Anzel! I'm a Data Scientist currently employed with
 
 I did doctoral research (left ABD) in Applied Physics at Caltech with [Chiara Daraio](http://daraio.caltech.edu/) where I worked on developing a new type of acoustic imaging system for non-destructive evaluation. During my graduate research I recieved a NASA Space Technology Research Fellowship and a M.S. in Applied Physics. I have a B.S. and B.A. in Chemical Physics and Mathematics (respectively) from Rice University.
 
-Outside of work I spends much of my time advocating for housing with [East Bay For Everyone](https://eastbayforeveryone.org/) and will talk your ear off about California housing politics if asked. I managed Caltech's [bicycle repair cooperative](https://caltechbikelab.blogspot.com/) for three years, play accordion and piano, and have started getting into ham radio.
+Outside of work I spend much of my time advocating for housing with [East Bay For Everyone](https://eastbayforeveryone.org/) and will talk your ear off about California housing politics if asked. I managed Caltech's [bicycle repair cooperative](https://caltechbikelab.blogspot.com/) for three years, play accordion and piano, and have started getting into ham radio.
 
 I live with my lovely wife Rose, infant son Isaac, and fussy cat Coltrane.
 
