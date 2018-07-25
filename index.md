@@ -25,7 +25,7 @@ Inspired by [Greg Wilson's commentary](http://third-bit.com/talks/greatest-hits/
 
 ## [A Moveable Feast Kinetic Sculpture](http://www.danielbusby.com/a-moveable-feast/)
 
-An eight-personm pedal-powered dining table. Project led by Daniel Busby, I provided many bicycle parts, ergonomic advice, and plenty of drilling and grinding.
+An eight-person pedal-powered dining table. Project led by Daniel Busby, I provided many bicycle parts, ergonomic advice, and plenty of drilling and grinding.
 
 ## [Domestic Violence Program mapping](https://github.com/anzelpwj/DV_program_analysis)
 
