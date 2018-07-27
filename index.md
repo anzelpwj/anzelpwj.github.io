@@ -23,6 +23,9 @@ Some ones I'm particularly proud of:
 
 Inspired by [Greg Wilson's commentary](http://third-bit.com/talks/greatest-hits/#/) that the state of software-development research is thin and poorly distributed on the ground, I did some research on my own looking into what research there is regarding software documentation. Long-story-short, there's precious little. I attended the WTD conference to see if I could get any more, and ended up giving a lightning talk about how little we know and how to assess relevant scientific evidence.
 
+## [Beer analysis](https://nbviewer.jupyter.org/github/anzelpwj/Beer_server/blob/master/Beer_analysis_v2.ipynb)
+I had some friends in grad school with whom I'd grab a Friday afternoon beer, and eventually I started rating the different beers we'd try. Many years and beers later, I learn some interesting things about the beers I like.
+
 ## [A Moveable Feast Kinetic Sculpture](http://www.danielbusby.com/a-moveable-feast/)
 
 An eight-person pedal-powered dining table. Project led by Daniel Busby, I provided many bicycle parts, ergonomic advice, and plenty of drilling and grinding.
