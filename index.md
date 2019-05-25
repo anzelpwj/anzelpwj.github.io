@@ -6,7 +6,7 @@ I did doctoral research (left ABD) in Applied Physics at Caltech with [Chiara Da
 
 Outside of work I spend much of my time advocating for building housing. I now volunteer with [San Antonio Neighbors For Everyone](https://www.sane-satx.org/), and before that helped out with [East Bay For Everyone](https://eastbayforeveryone.org/). I am an instructor with [Software Carpentry](https://software-carpentry.org/). I managed Caltech's [bicycle repair cooperative](https://caltechbikelab.blogspot.com/) for three years, play accordion and piano, and have started getting into ham radio.
 
-I live with my lovely wife Rose, infant son Isaac, and fussy cat Coltrane.
+I live with my lovely wife Rose, young son Isaac, and fussy cat Coltrane.
 
 # Some projects
 
