@@ -18,6 +18,10 @@ Tutorial on using Git for collaboration. Topics included creating issues, branch
 
 Quick talk for folks looking at making the transition from academia to industry of some of the advice I wish I had had.
 
+## [The Science(?) of Documentation, WriteTheDocs 2017](https://github.com/anzelpwj/writethedocs2017)
+
+Inspired by [Greg Wilson's commentary](http://third-bit.com/talks/greatest-hits/#/) that the state of software-development research is thin and poorly distributed on the ground, I did some investigation on my own looking into what research there is regarding software documentation. Long-story-short, there's precious little. I attended the WTD conference to see if I could find any more, and ended up giving a lightning talk about how little we know and how to assess relevant scientific evidence.
+
 # Some projects
 
 ## [Statistics Study Group Notes](https://github.com/anzelpwj/Stats-week)
@@ -28,14 +32,6 @@ Some ones I'm particularly proud of:
 - [The Hilbert and Hilbert-Huang Transform](https://nbviewer.jupyter.org/github/anzelpwj/Stats-week/blob/master/Hilbert_Transform.ipynb)
 - [HOT-SAX for discord discovery](https://nbviewer.jupyter.org/github/anzelpwj/Stats-week/blob/master/HOT_SAX.ipynb)
 - [Robust outlier detection techniques](https://nbviewer.jupyter.org/github/anzelpwj/Stats-week/blob/master/Grubbs_and_Qtest.ipynb)
-
-## [Hi, I'm Your Technical Interviewer: Advice for Breaking Into Industry (Scipy 2019)](https://github.com/anzelpwj/advice_for_getting_into_industry/blob/master/advice_getting_into_industry.pdf)
-
-Quick talk for folks looking at making the transition from academia to industry of some of the advice I wish I had had.
-
-## [The Science(?) of Documentation, WriteTheDocs 2017](https://github.com/anzelpwj/writethedocs2017)
-
-Inspired by [Greg Wilson's commentary](http://third-bit.com/talks/greatest-hits/#/) that the state of software-development research is thin and poorly distributed on the ground, I did some investigation on my own looking into what research there is regarding software documentation. Long-story-short, there's precious little. I attended the WTD conference to see if I could find any more, and ended up giving a lightning talk about how little we know and how to assess relevant scientific evidence.
 
 ## [Beer analysis](https://nbviewer.jupyter.org/github/anzelpwj/Beer_server/blob/master/Beer_analysis_v2.ipynb)
 I had some friends in grad school with whom I'd grab a Friday afternoon beer, and eventually I started rating the different beers we'd try. Many years and beers later, I've learned some interesting things about the beers I like.
