@@ -8,6 +8,16 @@ Outside of work I spend much of my time advocating for building housing. I now v
 
 I live with my lovely wife Rose, young son Isaac, and fussy cat Coltrane.
 
+# Public talks
+
+## [Git-ting along with others (PyDataLA 2019)](https://docs.google.com/presentation/d/1njdRK0la0cCh3AiPoYeOiqgw36jRGnt70Gz80emG9Sc/edit?usp=sharing)
+
+Tutorial on using Git for collaboration. Topics included creating issues, branching, and doing code review.
+
+## [Hi, I'm Your Technical Interviewer: Advice for Breaking Into Industry (Scipy 2019)](https://github.com/anzelpwj/advice_for_getting_into_industry/blob/master/advice_getting_into_industry.pdf)
+
+Quick talk for folks looking at making the transition from academia to industry of some of the advice I wish I had had.
+
 # Some projects
 
 ## [Statistics Study Group Notes](https://github.com/anzelpwj/Stats-week)
