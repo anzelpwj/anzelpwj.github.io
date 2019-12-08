@@ -18,7 +18,7 @@ Tutorial on using Git for collaboration. Topics included creating issues, branch
 
 Quick talk for folks looking at making the transition from academia to industry of some of the advice I wish I had had.
 
-## [The Science(?) of Documentation, WriteTheDocs 2017](https://github.com/anzelpwj/writethedocs2017)
+## [The Science(?) of Documentation (WriteTheDocs 2017)](https://github.com/anzelpwj/writethedocs2017)
 
 Inspired by [Greg Wilson's commentary](http://third-bit.com/talks/greatest-hits/#/) that the state of software-development research is thin and poorly distributed on the ground, I did some investigation on my own looking into what research there is regarding software documentation. Long-story-short, there's precious little. I attended the WTD conference to see if I could find any more, and ended up giving a lightning talk about how little we know and how to assess relevant scientific evidence.
 
