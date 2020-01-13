@@ -10,9 +10,9 @@ I live with my lovely wife Rose, young son Isaac, and fussy cat Coltrane.
 
 # Public talks
 
-## [Git-ting along with others (PyDataLA 2019)](https://docs.google.com/presentation/d/1njdRK0la0cCh3AiPoYeOiqgw36jRGnt70Gz80emG9Sc/edit?usp=sharing)
+## [Git-ting along with others (PyDataLA 2019)](https://www.youtube.com/watch?v=7mm9p1UBHlw)
 
-Tutorial on using Git for collaboration. Topics included creating issues, branching, and doing code review.
+Tutorial on using Git for collaboration. Topics included creating issues, branching, and doing code review. Slides can be found [here](https://docs.google.com/presentation/d/1njdRK0la0cCh3AiPoYeOiqgw36jRGnt70Gz80emG9Sc/edit?usp=sharing).
 
 ## [Hi, I'm Your Technical Interviewer: Advice for Breaking Into Industry (Scipy 2019)](https://github.com/anzelpwj/advice_for_getting_into_industry/blob/master/advice_getting_into_industry.pdf)
 
