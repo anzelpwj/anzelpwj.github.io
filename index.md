@@ -2,11 +2,11 @@
 
 ## Introduction
 
-Hello there, my name is Paul Anzel! I'm a Data Scientist currently employed with [H-E-B](https://www.heb.com/), building product recommendation systems and handling general data-science dev-ops work. Before that, I worked at [Metromile](https://www.metromile.com/), where I use telematics data to detect vehicle crashes and evaluate potential insurance fraud, and [Wiser](https://www.wiser.com/), doing price-demand estimation.
+Hello there, my name is Paul Anzel! I'm a Data Engineer currently employed with [H-E-B](https://www.heb.com/), working on building a Statistical Process Control library for our ETL workflows. Before that, I was a data scientist at H-E-B (building product recommendation systems), at [Metromile](https://www.metromile.com/), (managing our ETL system and using telematics data to detect vehicle crashes and evaluate potential insurance fraud), and at [Wiser](https://www.wiser.com/) (doing price-demand estimation).
 
 I did doctoral research (left ABD) in Applied Physics at Caltech with [Chiara Daraio](http://daraio.caltech.edu/) where I worked on developing a new type of acoustic imaging system for non-destructive evaluation. During my graduate research I received a NASA Space Technology Research Fellowship and a M.S. in Applied Physics. I have a B.S. and B.A. in Chemical Physics and Mathematics (respectively) from Rice University.
 
-Outside of work I spend much of my time advocating for building housing. I now volunteer with [San Antonio Neighbors For Everyone](https://www.sane-satx.org/), and before that helped out with [East Bay For Everyone](https://eastbayforeveryone.org/). I am an instructor with [Software Carpentry](https://software-carpentry.org/). I managed Caltech's [bicycle repair cooperative](https://caltechbikelab.blogspot.com/) for three years, play accordion and piano, and have started getting into ham radio.
+Outside of work, I've been involved in different political efforts. I was a volunteer with [Tech for Campaigns](https://www.techforcampaigns.org/) where I was recognized as a "Super Volunteer" for improving our processes and documentation around email fundraising. Before that, I worked with [East Bay For Everyone](https://eastbayforeveryone.org/) to advocate for building more housing in the SF Bay Area. I am an instructor with [Software Carpentry](https://software-carpentry.org/). I managed Caltech's [bicycle repair cooperative](https://caltechbikelab.blogspot.com/) for three years, play accordion and piano, and have started getting into ham radio.
 
 I live with my lovely wife Rose, young son Isaac, and fussy cat Coltrane.
 
