@@ -12,6 +12,10 @@ I live with my lovely wife Rose, young son Isaac, and fussy cat Coltrane.
 
 ## Public talks
 
+### [PandasUDFs - One Weird Trick to Scaled Ensembles (Data + AI Summit 2021)](https://github.com/anzelpwj/dais_conference_2021_presentation/blob/main/DAIS_PandasUDFs.pdf)
+
+Presentation on the use of Spark PandasUDFs to spped up workflows where you might use regular Python UDFs or are building ensembles of models.
+
 ### [Git-ting along with others (PyDataLA 2019)](https://www.youtube.com/watch?v=7mm9p1UBHlw)
 
 Tutorial on using Git for collaboration. Topics included creating issues, branching, and doing code review. Slides can be found [here](https://docs.google.com/presentation/d/1njdRK0la0cCh3AiPoYeOiqgw36jRGnt70Gz80emG9Sc/edit?usp=sharing).
