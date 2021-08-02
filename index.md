@@ -6,9 +6,9 @@ Hello there, my name is Paul Anzel! I'm a Data Engineer currently employed with 
 
 I did doctoral research (left ABD) in Applied Physics at Caltech with [Chiara Daraio](http://daraio.caltech.edu/) where I worked on developing a new type of acoustic imaging system for non-destructive evaluation. During my graduate research I received a NASA Space Technology Research Fellowship and a M.S. in Applied Physics. I have a B.S. and B.A. in Chemical Physics and Mathematics (respectively) from Rice University.
 
-Outside of work, I've been involved in different political efforts. I was a volunteer with [Tech for Campaigns](https://www.techforcampaigns.org/) where I was recognized as a "Super Volunteer" for improving our processes and documentation around email fundraising. Before that, I worked with [East Bay For Everyone](https://eastbayforeveryone.org/) to advocate for building more housing in the SF Bay Area. I am an instructor with [Software Carpentry](https://software-carpentry.org/). I managed Caltech's [bicycle repair cooperative](https://caltechbikelab.blogspot.com/) for three years, play accordion and piano, and have started getting into ham radio.
+Outside of work, I've been involved in different political efforts. I was a volunteer with [Tech for Campaigns](https://www.techforcampaigns.org/) where I was recognized as a "Super Volunteer" for improving our processes and documentation around email fundraising. Before that, I worked with [East Bay For Everyone](https://eastbayforeveryone.org/) to advocate for building more housing in the SF Bay Area. I am an instructor with [Software Carpentry](https://software-carpentry.org/), have helped organize the mentorship program for the [SciPy conference](https://www.scipy2021.scipy.org/organizers), and am on the [NumFocus Affiliate Project Selection Committee](https://numfocus.org/sponsored-projects/affiliated-projects). I managed Caltech's [bicycle repair cooperative](https://caltechbikelab.blogspot.com/) for three years, play accordion and piano, and have started getting into ham radio.
 
-I live with my lovely wife Rose, young son Isaac, and fussy cat Coltrane.
+I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane and Simone.
 
 ## Public talks
 
