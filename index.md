@@ -14,7 +14,7 @@ I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane and Si
 
 ### [How do you test data workflows? (SciPy 2022)](https://docs.google.com/presentation/d/1FHBYw8IreSA1DsMxS6opVR-9qP0x6vC6ejCxyR4-xYU/edit?usp=sharing)
 
-I've long wondered how I could go about testing data code - but how do you even unit-test a SQL query? After some time and effort trying to figure this problem out, I think I have an approach I'm happy with. Most advice I see focuses on the standard Python testing tooling, but I see a three-pronged approach--testing, static analysis, and data quality management--as the solution to this problem.
+I've long wondered how I could go about testing data code, but how do you even unit-test a SQL query? After a lot of thought and experimentation, I think I have an approach I'm happy with. Most advice I see focuses on the standard Python testing tooling, but I see a three-pronged approach--testing, static analysis, and data quality management--as the solution to this problem.
 
 ### [Introdution to Bayesian A/B testing (local DS Meetup, 2022)](https://docs.google.com/presentation/d/1MDE4loVaA9lAm-umZbP-mxPyOzuk49uXrCZJllx28yE/edit?usp=sharing)
 
