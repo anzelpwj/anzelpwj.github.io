@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there, my name is Paul Anzel! I'm a Data Engineer currently employed with [Codecov](https://about.codecov.io/), managing our data infrastructure. Prior to that I worked at [H-E-B](https://www.heb.com/) (focused on data workflow productionalization and data quality management and some data science work), at [Metromile](https://www.metromile.com/), (managing our ETL system and using telematics data to detect vehicle crashes and evaluate potential insurance fraud), and at [Wiser](https://www.wiser.com/) (doing price-demand estimation).
+Hello there, my name is Paul Anzel! I'm a Data Engineer currently employed with [Codecov](https://about.codecov.io/), managing our data infrastructure. Prior to that I worked at [H-E-B](https://www.heb.com/) (data workflow productionalization and data quality management), at [Metromile](https://www.metromile.com/) (managing our ETL system and using telematics data to detect vehicle crashes and evaluate potential insurance fraud), and at [Wiser](https://www.wiser.com/) (price-demand estimation).
 
 I did doctoral research (left ABD) in Applied Physics at Caltech with [Chiara Daraio](http://daraio.caltech.edu/) where I worked on developing a new type of acoustic imaging system for non-destructive evaluation. During my graduate research I received a NASA Space Technology Research Fellowship and a M.S. in Applied Physics. I have a B.S. and B.A. in Chemical Physics and Mathematics (respectively) from Rice University.
 
@@ -14,19 +14,19 @@ I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane and Si
 
 ### [How do you test data workflows? (SciPy 2022)](https://docs.google.com/presentation/d/1FHBYw8IreSA1DsMxS6opVR-9qP0x6vC6ejCxyR4-xYU/edit?usp=sharing)
 
-Presentation on some approaches to testing data processes. I recommend a three-pronged approach: traditional testing, static analysis, and data quality management.
+I've long wondered how I could go about testing data code - but how do you even unit-test a SQL query? After some time and effort trying to figure this problem out, I think I have an approach I'm happy with. Most advice I see focuses on the standard Python testing tooling, but I see a three-pronged approach--testing, static analysis, and data quality management--as the solution to this problem.
 
 ### [Introdution to Bayesian A/B testing (local DS Meetup, 2022)](https://docs.google.com/presentation/d/1MDE4loVaA9lAm-umZbP-mxPyOzuk49uXrCZJllx28yE/edit?usp=sharing)
 
-Presentation on using Bayesian methods for A/B testing and their advantage against the Frequentist approach. I cover a lot of the approach outlined by the [VWO paper](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf). I also go a bit into picking sample sizes for A/B tests based on a multi-armed-bandit approach.
+With my involvement in Tech for Campaigns, I was always stymied that the email lists I worked with never had enough of a population for good statistical power for A/B testing. I wondered if Bayesian methods could play more of a role, and after looking into them I'm never going back to Frequentist statistics. I cover a lot of the approach outlined by the [VWO paper](https://cdn2.hubspot.net/hubfs/310840/VWO_SmartStats_technical_whitepaper.pdf) and go a bit into picking sample sizes for A/B tests based on a multi-armed-bandit approach.
 
 ### [PandasUDFs - One Weird Trick to Scaled Ensembles (Data + AI Summit 2021)](https://github.com/anzelpwj/dais_conference_2021_presentation/blob/main/DAIS_PandasUDFs.pdf)
 
-Presentation on the use of Spark PandasUDFs to speed up workflows where you might use regular Python UDFs or are building ensembles of models.
+Presentation on the use of Spark PandasUDFs to speed up workflows where you might use regular Python UDFs or are building ensembles of models. They really were my One Weird Trick for productionalization at H-E-B.
 
 ### [Git-ting along with others (PyDataLA 2019)](https://www.youtube.com/watch?v=7mm9p1UBHlw)
 
-Tutorial on using Git for collaboration. Topics included creating issues, branching, and doing code review. Slides can be found [here](https://docs.google.com/presentation/d/1njdRK0la0cCh3AiPoYeOiqgw36jRGnt70Gz80emG9Sc/edit?usp=sharing).
+Tutorial on using Git for collaboration. Topics included creating issues, branching, and doing code review. I'm very proud of the pun. Slides can be found [here](https://docs.google.com/presentation/d/1njdRK0la0cCh3AiPoYeOiqgw36jRGnt70Gz80emG9Sc/edit?usp=sharing).
 
 ### [Hi, I'm Your Technical Interviewer: Advice for Breaking Into Industry (Scipy 2019)](https://github.com/anzelpwj/advice_for_getting_into_industry/blob/master/advice_getting_into_industry.pdf)
 
