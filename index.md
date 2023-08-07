@@ -16,6 +16,8 @@ I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane and Si
 
 I've long wondered how I could go about testing data code, but how do you even unit-test a SQL query? After a lot of thought and experimentation, I think I have an approach I'm happy with. Most advice I see focuses on the standard Python testing tooling, but I see a three-pronged approach--testing, static analysis, and data quality management--as the solution to this problem.
 
+2022 SciPy video [here](https://youtu.be/JqZLwK4OweU).
+
 2023 SATX Data Science Meetup slides [here](https://docs.google.com/presentation/d/15p0vXDaGz7rsYkkaWn7-VNRAkOZZnse2hjwVzzxGe6o/edit?usp=sharing).
 
 ### [Introdution to Bayesian A/B testing (local DS Meetup, 2022)](https://docs.google.com/presentation/d/1MDE4loVaA9lAm-umZbP-mxPyOzuk49uXrCZJllx28yE/edit?usp=sharing)
