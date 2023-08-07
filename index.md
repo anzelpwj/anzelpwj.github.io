@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there, my name is Paul Anzel! I'm a Data Engineer currently employed with [Codecov](https://about.codecov.io/), managing our data infrastructure. Prior to that I worked at [H-E-B](https://www.heb.com/) (data workflow productionalization and data quality management), at [Metromile](https://www.metromile.com/) (managing our ETL system and using telematics data to detect vehicle crashes and evaluate potential insurance fraud), and at [Wiser](https://www.wiser.com/) (price-demand estimation).
+Hello there, my name is Paul Anzel! I'm a Data Engineer currently employed with [Sentry](https://sentry.io/welcome/), managing our data infrastructure. Prior to that I worked at [H-E-B](https://www.heb.com/) (data workflow productionalization and data quality management), at [Metromile](https://www.metromile.com/) (managing our ETL system and using telematics data to detect vehicle crashes and evaluate potential insurance fraud), and at [Wiser](https://www.wiser.com/) (price-demand estimation).
 
 I did doctoral research (left ABD) in Applied Physics at Caltech with [Chiara Daraio](http://daraio.caltech.edu/) where I worked on developing a new type of acoustic imaging system for non-destructive evaluation. During my graduate research I received a NASA Space Technology Research Fellowship and a M.S. in Applied Physics. I have a B.S. and B.A. in Chemical Physics and Mathematics (respectively) from Rice University.
 
@@ -15,6 +15,8 @@ I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane and Si
 ### [How do you test data workflows? (SciPy 2022)](https://docs.google.com/presentation/d/1FHBYw8IreSA1DsMxS6opVR-9qP0x6vC6ejCxyR4-xYU/edit?usp=sharing)
 
 I've long wondered how I could go about testing data code, but how do you even unit-test a SQL query? After a lot of thought and experimentation, I think I have an approach I'm happy with. Most advice I see focuses on the standard Python testing tooling, but I see a three-pronged approach--testing, static analysis, and data quality management--as the solution to this problem.
+
+2023 SATX Data Science Meetup slides [here](https://docs.google.com/presentation/d/15p0vXDaGz7rsYkkaWn7-VNRAkOZZnse2hjwVzzxGe6o/edit?usp=sharing).
 
 ### [Introdution to Bayesian A/B testing (local DS Meetup, 2022)](https://docs.google.com/presentation/d/1MDE4loVaA9lAm-umZbP-mxPyOzuk49uXrCZJllx28yE/edit?usp=sharing)
 
