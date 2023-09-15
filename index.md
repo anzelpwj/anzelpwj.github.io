@@ -12,6 +12,10 @@ I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane and Si
 
 ## Public talks
 
+### [Introdution to dbt (local DS Meetup, 2023](https://docs.google.com/presentation/d/1sxJCzLl7_Rz6gs3C9V7MiVGi7IVFXPsf0_UL-8qlREI/edit?usp=sharing)
+
+An introduction to dbt (data build tool). Presentation has a live demo, but the middle set of the slides cover everything that would be in the demo. I used Rob Conery's [A Curious Moon](https://bigmachine.io/products/a-curious-moon/) as my inspiration for generating a data set. The resulting dbt project can be seen [here](https://github.com/anzelpwj/curiousmoondemo).
+
 ### [How do you test data workflows? (SciPy 2022)](https://docs.google.com/presentation/d/1FHBYw8IreSA1DsMxS6opVR-9qP0x6vC6ejCxyR4-xYU/edit?usp=sharing)
 
 I've long wondered how I could go about testing data code, but how do you even unit-test a SQL query? After a lot of thought and experimentation, I think I have an approach I'm happy with. Most advice I see focuses on the standard Python testing tooling, but I see a three-pronged approach--testing, static analysis, and data quality management--as the solution to this problem.
