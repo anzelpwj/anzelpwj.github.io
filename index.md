@@ -12,7 +12,7 @@ I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane and Si
 
 ## Public talks
 
-### [Introdution to dbt (local DS Meetup, 2023](https://docs.google.com/presentation/d/1sxJCzLl7_Rz6gs3C9V7MiVGi7IVFXPsf0_UL-8qlREI/edit?usp=sharing)
+### [Introdution to dbt (local DS Meetup, 2023)](https://docs.google.com/presentation/d/1sxJCzLl7_Rz6gs3C9V7MiVGi7IVFXPsf0_UL-8qlREI/edit?usp=sharing)
 
 An introduction to dbt (data build tool). Presentation has a live demo, but the middle set of the slides cover everything that would be in the demo. I used Rob Conery's [A Curious Moon](https://bigmachine.io/products/a-curious-moon/) as my inspiration for generating a data set. The resulting dbt project can be seen [here](https://github.com/anzelpwj/curiousmoondemo).
 
