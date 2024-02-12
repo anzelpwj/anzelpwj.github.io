@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello there, my name is Paul Anzel! I'm a Data Engineer . I was most recently employed with [Codecov](https://about.codecov.io/) (acquired by Sentry), where I worked on building ETL pipelines, handling ad-hoc data analyses, and integrating our data stack with Sentry's stack. Prior to that I worked at [H-E-B](https://www.heb.com/) (data workflow productionalization and data quality management), at [Metromile](https://www.metromile.com/) (managing our ETL system and using telematics data to detect vehicle crashes and evaluate potential insurance fraud), and at [Wiser](https://www.wiser.com/) (price-demand estimation).
+Hello there, my name is Paul Anzel! I'm a Data Engineer/Data Scientist with experience across the entire data pipeline. I was most recently employed with [Codecov](https://about.codecov.io/) (acquired by Sentry), where I worked on building ETL pipelines, handling ad-hoc data analyses, and integrating our data stack with Sentry's stack. Prior to that I worked at [H-E-B](https://www.heb.com/) (data workflow productionalization and data quality management), at [Metromile](https://www.metromile.com/) (managing our ETL system and using telematics data to detect vehicle crashes and evaluate potential insurance fraud), and at [Wiser](https://www.wiser.com/) (price-demand estimation).
 
 I did doctoral research (left ABD) in Applied Physics at Caltech with [Chiara Daraio](http://daraio.caltech.edu/) where I worked on developing a new type of acoustic imaging system for non-destructive evaluation. During my graduate research I received a NASA Space Technology Research Fellowship and a M.S. in Applied Physics. I have a B.S. and B.A. in Chemical Physics and Mathematics (respectively) from Rice University.
 
