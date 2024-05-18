@@ -12,6 +12,10 @@ I live with my lovely wife Rose, young son Isaac, and fussy cats Coltrane, Simon
 
 ## Public talks
 
+### [Dead simple CI with pre-commit (local meetup, 2024)](https://docs.google.com/presentation/d/1YlDUPJDyI6PZuWV9UdIqTQ9HgivwackVHDl9Cc-JLds/edit?usp=sharing)
+
+A lightning talk introducing the pre-commit framework. I emphasize the security potential of using this tool. Database passwords in plaintext *are* real and *can* hurt you.
+
 ### [Introdution to dbt (local DS Meetup, 2023)](https://docs.google.com/presentation/d/1sxJCzLl7_Rz6gs3C9V7MiVGi7IVFXPsf0_UL-8qlREI/edit?usp=sharing)
 
 An introduction to dbt (data build tool). Presentation has a live demo, but the middle set of the slides cover everything that would be in the demo. I used Rob Conery's [A Curious Moon](https://bigmachine.io/products/a-curious-moon/) as my inspiration for generating a data set. The resulting dbt project can be seen [here](https://github.com/anzelpwj/curiousmoondemo).
